@@ -1,3 +1,5 @@
-seaborn
-hmmlearn
+numpy
+pomegranate
 pandas
+seaborn
+torch
